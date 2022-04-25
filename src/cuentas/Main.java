@@ -1,7 +1,7 @@
 package cuentas;
 
 public class Main {
-       /*comentario para version 2.0*/
+       /*comentario para version 2.1*/
     public static void main(String[] args) {
         CCuenta cuenta1;
         double saldoActual;
